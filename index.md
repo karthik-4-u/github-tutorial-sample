@@ -1,4 +1,6 @@
 ---
+title: Demo Page
+layout: demo_template
 author: Mark
 ---
 
