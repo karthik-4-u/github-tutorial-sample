@@ -1,5 +1,4 @@
-
-
+Variable Definition
 ---
 author: Mark 
 ---
