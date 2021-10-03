@@ -1,4 +1,4 @@
-Variable Definition
+
 ---
 author: Mark 
 ---
@@ -27,7 +27,7 @@ Play
 Mute
 Loaded: 0.00%
  
-## This page is written by {{page.author}}
+## This page is written by ##{{page.author}}
 
 Picture-in-Picture
 
