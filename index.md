@@ -1,6 +1,11 @@
 ---
 author: Mark
 ---
+
+
+This page is written by {{page.author}}.
+
+
 A command line interface (CLI) is a text-based user interface (UI) used to view and manage computer files. Command line interfaces are also called command-line user interfaces, console user interfaces and character user interfaces.
 
 History and features of CLI
@@ -24,8 +29,6 @@ Play
 
 Mute
 Loaded: 0.00%
- 
-This page is written by {{page.author}}.
 
 Picture-in-Picture
 
