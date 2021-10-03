@@ -23,4 +23,4 @@ This is *italics* text.
 
 This is ***bold and italics*** text.
 
-My favorite website is [Yahoo](www.yahoo.com)
+My favorite website is [Yahoo](http://www.yahoo.com)
