@@ -93,5 +93,5 @@ different commands used in different shells.
 
 
 {% for item in site.data.sample_1.csv %}
-- {{item.year}} {{item.film}}
+- {{item.year}}:{{item.film}}
 {% endfor %}
