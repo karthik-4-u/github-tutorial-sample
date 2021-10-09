@@ -93,5 +93,5 @@ different commands used in different shells.
 
 
 {% for item in site.data.Sample_1 %}
-- {{item.year}}:{{item.film}}
+- {{item.year}}:{{item.film}}:{{item.director}}
 {% endfor %}
