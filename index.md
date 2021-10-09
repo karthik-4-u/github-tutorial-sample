@@ -10,15 +10,7 @@ This page is written by {{page.author}}.
 
 {% include Jekyll.txt %}
 
-----------------------------------
 
-{% for anything in site.data.sample_1.csv %}
-
-{{anything.year}} {{anything.film}}
-
-{% endfor %}
-
-------------------------------------
 
 A command line interface (CLI) is a text-based user interface (UI) used to view and manage computer files. Command line interfaces are also called command-line user interfaces, console user interfaces and character user interfaces.
 
@@ -98,3 +90,10 @@ The disadvantages of a command line interface are:
 GUI is more user-friendly;
 steeper learning curve associated with memorizing commands and complex syntax/arguments; and
 different commands used in different shells.
+
+
+{% for anything in site.data.sample_1.csv %}
+
+{{anything.year}} {{anything.film}}
+
+{% endfor %}
