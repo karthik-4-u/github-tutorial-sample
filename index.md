@@ -92,8 +92,8 @@ steeper learning curve associated with memorizing commands and complex syntax/ar
 different commands used in different shells.
 
 
-{% for anything in site.data.sample_1.csv %}
+{% for item in site.data.sample_1.csv %}
 
-{{anything.year}} {{anything.film}}
+- {{item.year}} {{item.film}}
 
 {% endfor %}
