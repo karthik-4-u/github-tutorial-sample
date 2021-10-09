@@ -60,7 +60,7 @@ For example, a full command with an argument appears as:
 
 cd \documents\user
 
-The arguments used with commands can also be extremely complex and granular. For example, the following command line string shows the PowerShell syntax to retrieve detailed network configuration information from a Windows machine:
+The arguments used with commands can also be extremely complex and granular. For example, the following command line string shows the PowerShell syntax to retrieve detailed network configuration information from a Windows machine: 
 
 Get-NetIPAddress | Sort InterfaceIndex | FT InterfaceIndex, InterfaceAlias, AddressFamily, IPAddress, PrefixLength -Autosize
 
