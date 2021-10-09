@@ -4,8 +4,6 @@ layout: demo_template
 author: Mark
 ---
 
-{{page.title}}
-
 # CLI and other Random Stuff
 
 ## This page is written by {{page.author}}.
